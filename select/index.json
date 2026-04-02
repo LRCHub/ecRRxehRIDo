@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "base_track": "Self-Destructive Girl",
+  "base_artist": "EMIRI",
+  "createdAt": "2026-04-02T16:00:41.360514Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Self-Destructive Girl (English Version)",
+      "artist": "EMIRI",
+      "has_synced": false,
+      "path": "select/01_Self-Destructive_Girl_(English_Version)_EMIRI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Self-Destructive Girl",
+      "artist": "EMIRI",
+      "has_synced": false,
+      "path": "select/02_Self-Destructive_Girl_EMIRI.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Self-Destructive Girl",
+      "artist": "EMIRI",
+      "has_synced": false,
+      "path": "select/localdb_01_Self-Destructive_Girl_EMIRI.txt",
+      "repo_name": "ecRRxehRIDo"
+    }
+  ]
+}
